@@ -1,8 +1,11 @@
 # Microsoft-Interview-Prep
 
 Rotate Array (Easy)
+
 Valid Palindrome (Easy)
+
 Longest Common Prefix (Easy)
+
 Valid Parentheses (Easy)
 Count and Say (Medium)
 Valid Anagram (Easy)
